@@ -1,6 +1,1 @@
-[
-  {"upa":"kyawkyaw",
-  "upk":"0",
-  "upl":"https://www.google.com"
-  }
-]
+[{"upa":"kyawkyaw","upk":"0","upl":"https://www.google.com"}]
