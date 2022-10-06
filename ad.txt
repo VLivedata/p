@@ -1,1 +1,1 @@
-[{"ty":"1","pl":"https://drive.google.com/uc?export\u003ddownload\u0026id\u003d11DzelqisLeYIFVgPsv6wphBdm9gmOO8C","key":"-NDYkz_NFDby3QFHmv8o","ky":"","url":"https://www.facebook.com/vliveapp","vdurl":""}]
+[{"ty":"1","pl":"https://github.com/vdatap/vlivedata/raw/main/20221004_220824%20(1).jpg","ky":"","url":"https://www.facebook.com/vliveapp","vdurl":""}]
