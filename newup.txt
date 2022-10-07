@@ -22,5 +22,4 @@
       "key": "-NDhAxMs8y7CL8HnGlqy",
       "na": "movie1",
       "pt": "https://github.com/vdatap/vlivedata/raw/main/sat.jpg"
-    }
-  }]
+    }]
